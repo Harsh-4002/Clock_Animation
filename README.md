@@ -9,6 +9,8 @@ This Android application demonstrates a dynamic clock animation using Jetpack Co
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/585ddcdc-4acb-4121-85f4-1bbaca3b1bf2)
+## Video
+[showanimation.webm](https://github.com/user-attachments/assets/080249a1-f61c-46e4-8a10-d24e12b24aa2)
 
 
 ## Getting Started
